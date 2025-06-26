@@ -1,0 +1,11 @@
+streamlit>=1.20.0
+tensorflow>=2.11.0
+opencv-python
+numpy
+pandas
+Pillow
+scikit-learn
+faiss-cpu
+torch
+torchvision
+segmentation-models-pytorch
