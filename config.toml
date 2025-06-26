@@ -1,0 +1,10 @@
+[global]
+disableWatchdogWarning = true
+
+[server]
+headless = true
+port = $PORT
+enableCORS = false
+
+[experimental]
+useDeprecatedRuntime = true
